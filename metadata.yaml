@@ -1,5 +1,8 @@
 _repo: The-Pathfinder--Or-The-Inland-Sea_1880
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -17,6 +20,8 @@ description: "The Pathfinder, or The Inland Sea is a historical novel by James F
   \ Natty Bumppo, his fictitious frontier hero, and the third chronological episode\
   \ of the Leatherstocking Tales. The inland sea of the title is Lake Ontario.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1880#The-Pathfinder--Or-The-Inland-Sea
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
